@@ -1,3 +1,3 @@
 # pyjson
-
-json file exchage for python dic  and, python dic exchange for json file.  
+## 概要
+jsonファイルとpythonをやり取りするためのサンプルプログラムである。  
